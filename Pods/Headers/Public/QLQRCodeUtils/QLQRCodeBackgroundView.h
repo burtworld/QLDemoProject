@@ -1,0 +1,1 @@
+../../../../../QLQRCodeUtils/QLQRCodeUtils/Classes/QLQRCodeBackgroundView.h

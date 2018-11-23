@@ -1,0 +1,1 @@
+../../../../../QLQRCodeUtils/QLQRCodeUtils/Classes/QLQRCodeUtils.h
